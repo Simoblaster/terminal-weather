@@ -25,7 +25,7 @@ This project was made during a coding session for my Youtube Channel AsmrCoding,
 
 1. Clone repo
 
-``` git clone https://github.com/YourUsername/terminal-weather.git ```
+``` git clone https://github.com/simoblaster/terminal-weather.git ```
 
 2. Install dependencies
 
