@@ -2,7 +2,7 @@
 
 A terminal-based weather dashboard built with React Ink and OpenWeather API. Features ASCII art weather visualizations, hourly forecasts, and responsive terminal layout.
 
-This project was made during a coding session for my Youtube Channel AsmrCoding, here it is the [link of the video](https://www.youtube.com/watch?v=X0KbRvkvmtc&t), subscribe, leave a like and a comment for support the channel! Thanks 🙏 
+This project was made during a coding session for my Youtube Channel AsmrCoding, here it is the [link of the video](https://www.youtube.com/watch?v=3rfssU4WbKc), subscribe, leave a like and a comment for support the channel! Thanks 🙏 
 
 ## 📸 Demo
 
